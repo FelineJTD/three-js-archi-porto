@@ -24,7 +24,7 @@ const Common = dynamic(() => import('@/components/canvas/View').then((mod) => mo
 export default function Page() {
   return (
     <>
-      <div className='absolute left-8 top-12 z-10 w-full max-w-96 md:left-24 md:top-24'>
+      <div className='absolute left-8 top-12 z-10 w-[calc(100%-4rem)] max-w-96 md:left-24 md:top-24'>
         <h1 className='mb-2 text-3xl font-semibold text-[#353432]'>Portfolio.</h1>
         <p className='text-[#4F4C4A]'>(n.) a collection of drawings, documents, etc. that represent a person&apos;s, especially an artist&apos;s, work</p>
       </div>
