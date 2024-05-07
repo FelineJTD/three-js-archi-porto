@@ -1,8 +1,7 @@
-const title = 'React Three Next Starter'
+const title = 'Raymond Kurniawan - Architect Portfolio'
 const url = 'https://react-three-next.vercel.app/'
-const description = 'The easiest and fastest way to create a 3D website using React Three Fiber and NextJS'
-const author = 'Author'
-const twitter = '@pmndrs'
+const description = 'A collection of architectural projects in display.'
+const author = 'Felicia Sutandijo'
 
 export default function Head() {
   return (
@@ -20,7 +19,7 @@ export default function Head() {
       <meta name='description' content={description} />
       <meta
         name='keywords'
-        content='Software Engineer,Product Manager,Project Manager,Data Scientist,Computer Scientist'
+        content='Architecture,Architect,Portfolio,Architect Portfolio,3D,3D Website,React Three Fiber,NextJS'
       />
       <meta name='robots' content='index,follow' />
       <meta name='distribution' content='web' />
@@ -54,7 +53,7 @@ export default function Head() {
         documentation: https://dev.twitter.com/cards/getting-started
         Be sure validate your Twitter card markup on the documentation site. */}
       <meta name='twitter:card' content='summary' />
-      <meta name='twitter:site' content={twitter} />
+      {/* <meta name='twitter:site' content={twitter} /> */}
     </>
   )
 }
