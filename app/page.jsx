@@ -3,7 +3,7 @@
 import dynamic from 'next/dynamic'
 import { Suspense } from 'react'
 
-const Archi = dynamic(() => import('@/components/canvas/Examples').then((mod) => mod.Archi), { ssr: false })
+const Archi = dynamic(() => import('@/components/canvas/Object').then((mod) => mod.Archi), { ssr: false })
 const View = dynamic(() => import('@/components/canvas/View').then((mod) => mod.View), {
   ssr: false,
   loading: () => (
@@ -24,9 +24,13 @@ const Common = dynamic(() => import('@/components/canvas/View').then((mod) => mo
 export default function Page() {
   return (
     <>
+      <div className='absolute left-24 top-24 z-10 w-96'>
+        <h1 className='mb-2 text-3xl font-semibold text-[#353432]'>Portfolio.</h1>
+        <p className='text-[#4F4C4A]'>(n.) a collection of drawings, documents, etc. that represent a person&apos;s, especially an artist&apos;s, work</p>
+      </div>
       <View orbit className='relative h-full'>
         <Suspense fallback={null}>
-          <Archi scale={0.000012} position={[-0.5, -0.2, 0]} rotation={[0.4, -0.3, 0]} />
+          <Archi scale={0.000012} position={[-0.5, -0.3, 0]} rotation={[0.4, -0.3, 0]} />
           <Common color={'#FBFBFA'} />
         </Suspense>
       </View>
