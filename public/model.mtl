@@ -1,0 +1,1198 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl jendelaswarha2
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.462745 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendelaswarha2.jpg
+
+newmtl teksturhurufswarha
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.776471 0.807843
+Ks 0.330000 0.330000 0.330000
+map_Kd model/teksturhurufswarha.jpg
+
+newmtl Metal_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.827451 0.827451
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Metal_Rough.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl SWARHAatapge
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.678431 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd model/SWARHAatapge.jpg
+
+newmtl foldingdoor
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.788235 0.807843
+Ks 0.330000 0.330000 0.330000
+map_Kd model/foldingdoor.jpg
+
+newmtl swarhatingkat
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.474510 0.509804
+Ks 0.330000 0.330000 0.330000
+map_Kd model/swarhatingkat.jpg
+
+newmtl tembokancurawarha
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.537255 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tembokancurawarha.jpg
+
+newmtl jendelaswarha1
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.490196 0.552941
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendelaswarha1.jpg
+
+newmtl _Cladding_Stucco_White_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.330000 0.330000 0.330000
+map_Kd model/_Cladding_Stucco_White_2.jpg
+
+newmtl tempatnamatoko
+Ka 0.000000 0.000000 0.000000
+Kd 0.631373 0.505882 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tempatnamatoko.jpg
+
+newmtl Color_002
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.330000 0.330000 0.330000
+
+newmtl rollingdoorkecilfile
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.568627 0.619608
+Ks 0.330000 0.330000 0.330000
+map_Kd model/rollingdoorkecilfile.jpg
+
+newmtl tampakmuka
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka.jpg
+
+newmtl tembokjelek
+Ka 0.000000 0.000000 0.000000
+Kd 0.580392 0.568627 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tembokjelek.jpg
+
+newmtl tampakmuka1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka1_.jpg
+
+newmtl tembokjelek1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.580392 0.568627 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tembokjelek1_.jpg
+
+newmtl tampakmuka2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka2_.jpg
+
+newmtl tampakmuka3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka3_.jpg
+
+newmtl tampakmuka4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka4_.jpg
+
+newmtl tampakmuka5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka5_.jpg
+
+newmtl atapbioskop
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.380392 0.384314
+Ks 0.330000 0.330000 0.330000
+map_Kd model/atapbioskop.jpg
+
+newmtl tembokjelek2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.580392 0.568627 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tembokjelek2_.jpg
+
+newmtl warteg
+Ka 0.000000 0.000000 0.000000
+Kd 0.513725 0.478431 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd model/warteg.jpg
+
+newmtl jendela_samping
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.345098 0.352941
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendela_samping.jpg
+
+newmtl tampakmuka6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka6_.jpg
+
+newmtl tampakmuka7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka7_.jpg
+
+newmtl tampakmuka8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka8_.jpg
+
+newmtl tampakmuka9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka9_.jpg
+
+newmtl tampakmuka10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka10_.jpg
+
+newmtl tampakmuka11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.611765 0.584314 0.600000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tampakmuka11_.jpg
+
+newmtl Stone_Masonry_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.686275 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Stone_Masonry_Multi.jpg
+
+newmtl Grass_Dark_Green
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.615686 0.215686
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Grass_Dark_Green.jpg
+
+newmtl Blacktop_New
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Blacktop_New.jpg
+
+newmtl Water_Pool_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.243137 0.584314 0.650980
+Ks 0.330000 0.330000 0.330000
+d 0.600000
+map_Kd model/Water_Pool_Light.jpg
+
+newmtl _DarkGoldenrod_
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.525490 0.043137
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Gray6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.376471 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Beige_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.741176 0.564706
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Brown_
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.345098 0.211765
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Black_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Redwood_
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.396078 0.321569
+Ks 0.330000 0.330000 0.330000
+
+newmtl jean_blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.141176 0.184314 0.258824
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_008
+Ka 0.000000 0.000000 0.000000
+Kd 0.117647 0.117647 0.117647
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_D02
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.800000 0.196078
+Ks 0.330000 0.330000 0.330000
+
+newmtl Translucent_Glass_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl _Color_002_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Fencing_Metal_Straight
+Ka 0.000000 0.000000 0.000000
+Kd 0.760784 0.764706 0.768627
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Fencing_Metal_Straight.png
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+
+newmtl Roofing_Metal_Standing_Seam_Red
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.360784 0.360784
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Roofing_Metal_Standing_Seam_Red.jpg
+
+newmtl Concrete_Aggregate_Smoke
+Ka 0.000000 0.000000 0.000000
+Kd 0.603922 0.588235 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Concrete_Aggregate_Smoke.jpg
+
+newmtl Roofing_Tile_Spanish
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.368627 0.227451
+Ks 0.330000 0.330000 0.330000
+
+newmtl Roofing_Slate_Tan
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.325490 0.231373
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Roofing_Slate_Tan.jpg
+
+newmtl Roofing_Shingles_Variable
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.349020 0.192157
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Roofing_Shingles_Variable.jpg
+
+newmtl Metal_Aluminum_Anodized1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.858824 0.741176 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Metal_Aluminum_Anodized1_.jpg
+
+newmtl _DarkGoldenrod_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.976471 0.768627 0.274510
+Ks 0.330000 0.330000 0.330000
+
+newmtl Translucent_Glass_Green_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.243137 0.356863 0.019608
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl Tile_Travertine_2inch
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.698039 0.674510
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Tile_Travertine_2inch.jpg
+
+newmtl _Black_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Translucent_Glass_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.584314 0.929412
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl Fencing_Metal_Straight1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Fencing_Metal_Straight1_.png
+
+newmtl _Beige_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.741176 0.564706
+Ks 0.330000 0.330000 0.330000
+
+newmtl teksturbola
+Ka 0.000000 0.000000 0.000000
+Kd 0.835294 0.835294 0.862745
+Ks 0.330000 0.330000 0.330000
+map_Kd model/teksturbola.jpg
+
+newmtl plang
+Ka 0.000000 0.000000 0.000000
+Kd 0.796078 0.803922 0.854902
+Ks 0.330000 0.330000 0.330000
+map_Kd model/plang.jpg
+
+newmtl FATROOF
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.298039 0.282353
+Ks 0.330000 0.330000 0.330000
+map_Kd model/FATROOF.jpg
+
+newmtl asbes
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.419608 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd model/asbes.jpg
+
+newmtl dindingdepan_masuk
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk.jpg
+
+newmtl dindingdepan_masuk1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk1_.jpg
+
+newmtl dindingdepan_masuk2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk2_.jpg
+
+newmtl pintu_utama_mandiri2
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.670588 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd model/pintu_utama_mandiri2.jpg
+
+newmtl pintu_utama_mandiri2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.670588 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd model/pintu_utama_mandiri2_1_.jpg
+
+newmtl dindingdepan_masuk3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk3_.jpg
+
+newmtl dindingdepan_masuk4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk4_.jpg
+
+newmtl dindingdepan_masuk5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk5_.jpg
+
+newmtl teksturtangga
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.517647 0.513725
+Ks 0.330000 0.330000 0.330000
+map_Kd model/teksturtangga.jpg
+
+newmtl dindingdepan_masuk6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk6_.jpg
+
+newmtl dindingdepan_masuk7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk7_.jpg
+
+newmtl dindingdepan_masuk8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk8_.jpg
+
+newmtl pintu_utama_mandiri2_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.670588 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd model/pintu_utama_mandiri2_2_.jpg
+
+newmtl dindingdepan_masuk9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk9_.jpg
+
+newmtl pintu_utama_mandiri2_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.670588 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd model/pintu_utama_mandiri2_3_.jpg
+
+newmtl dindingdepan_masuk10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk10_.jpg
+
+newmtl dindingdepan_masuk11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk11_.jpg
+
+newmtl logomandiri
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.368627 0.415686
+Ks 0.330000 0.330000 0.330000
+map_Kd model/logomandiri.jpg
+
+newmtl dindingdepan_masuk12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk12_.jpg
+
+newmtl dindingdepan_masuk13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk13_.jpg
+
+newmtl dindingdepan_masuk14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk14_.jpg
+
+newmtl dindingdepan_masuk15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk15_.jpg
+
+newmtl dindingdepan_masuk16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.686275 0.678431 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingdepan_masuk16_.jpg
+
+newmtl Google_Earth_Snapshot2
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.286275 0.301961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Google_Earth_Snapshot2.jpg
+
+newmtl front_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.086275 0.066667
+Ks 0.330000 0.330000 0.330000
+map_Kd model/front_2.jpg
+
+newmtl genteng
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.254902 0.231373
+Ks 0.330000 0.330000 0.330000
+map_Kd model/genteng.jpg
+
+newmtl front
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.501961 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd model/front.jpg
+
+newmtl front_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.850980 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/front_1.jpg
+
+newmtl tembog
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.603922 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tembog.jpg
+
+newmtl Google_Earth_Snapshot2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.286275 0.301961
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Google_Earth_Snapshot2_1_.jpg
+
+newmtl tembog2
+Ka 0.000000 0.000000 0.000000
+Kd 0.843137 0.776471 0.717647
+Ks 0.330000 0.330000 0.330000
+map_Kd model/tembog2.jpg
+
+newmtl jandela
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.709804 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jandela.jpg
+
+newmtl jandela2
+Ka 0.000000 0.000000 0.000000
+Kd 0.749020 0.698039 0.639216
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jandela2.jpg
+
+newmtl bantendepan
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.611765 0.631373
+Ks 0.330000 0.330000 0.330000
+map_Kd model/bantendepan.jpg
+
+newmtl jendela_back
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.815686 0.823529
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendela_back.jpg
+
+newmtl jendelablk2
+Ka 0.000000 0.000000 0.000000
+Kd 0.674510 0.658824 0.682353
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendelablk2.jpg
+
+newmtl Cladding_Stucco_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.239216 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Cladding_Stucco_White.jpg
+
+newmtl temboklido
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.529412 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd model/temboklido.jpg
+
+newmtl EXIM_WALL_BASE_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.972549 0.980392 0.972549
+Ks 0.330000 0.330000 0.330000
+map_Kd model/EXIM_WALL_BASE_2.jpg
+
+newmtl FAT_ROOF
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.388235 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd model/FAT_ROOF.jpg
+
+newmtl overpainted_brick_lines_9291387
+Ka 0.000000 0.000000 0.000000
+Kd 0.788235 0.780392 0.815686
+Ks 0.330000 0.330000 0.330000
+map_Kd model/overpainted_brick_lines_9291387.jpg
+
+newmtl overpainted_brick_lines_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd model/overpainted_brick_lines_1.jpg
+
+newmtl jendela_back1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.819608 0.815686 0.823529
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendela_back1_.jpg
+
+newmtl ubin
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.537255 0.400000
+Ks 0.330000 0.330000 0.330000
+map_Kd model/ubin.jpg
+
+newmtl gate1
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.364706 0.258824
+Ks 0.330000 0.330000 0.330000
+map_Kd model/gate1.jpg
+
+newmtl samping1
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.223529 0.184314
+Ks 0.330000 0.330000 0.330000
+map_Kd model/samping1.jpg
+
+newmtl minaret2
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.474510 0.431373
+Ks 0.330000 0.330000 0.330000
+map_Kd model/minaret2.jpg
+
+newmtl Roofing_Shingles_Asphalt
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.407843 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Roofing_Shingles_Asphalt.jpg
+
+newmtl masjid_agung
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd model/masjid_agung.jpg
+
+newmtl minaret
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.643137 0.611765
+Ks 0.330000 0.330000 0.330000
+map_Kd model/minaret.jpg
+
+newmtl masjid_agung1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd model/masjid_agung1_.jpg
+
+newmtl window2
+Ka 0.000000 0.000000 0.000000
+Kd 0.325490 0.301961 0.309804
+Ks 0.330000 0.330000 0.330000
+map_Kd model/window2.jpg
+
+newmtl masjid_agung2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd model/masjid_agung2_.jpg
+
+newmtl window
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.431373 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd model/window.jpg
+
+newmtl dome
+Ka 0.000000 0.000000 0.000000
+Kd 0.682353 0.674510 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dome.jpg
+
+newmtl jendela_dome
+Ka 0.000000 0.000000 0.000000
+Kd 0.827451 0.666667 0.474510
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendela_dome.jpg
+
+newmtl pucuk
+Ka 0.000000 0.000000 0.000000
+Kd 0.658824 0.713725 0.752941
+Ks 0.330000 0.330000 0.330000
+map_Kd model/pucuk.png
+
+newmtl masjid_agung3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd model/masjid_agung3_.jpg
+
+newmtl masjid_agung4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd model/masjid_agung4_.jpg
+
+newmtl jendela_atas
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.486275 0.368627
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendela_atas.jpg
+
+newmtl masjid_agung5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd model/masjid_agung5_.jpg
+
+newmtl jendela2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.415686 0.317647
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendela2_.jpg
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd model/Metal_Corrogated_Shiny.jpg
+
+newmtl menaraescomto1
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1.jpg
+
+newmtl menaraescomto1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_1_.jpg
+
+newmtl FAT_ROOF1
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.235294 0.203922
+Ks 0.330000 0.330000 0.330000
+map_Kd model/FAT_ROOF1.jpg
+
+newmtl menaraescomto1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_2_.jpg
+
+newmtl menaraescomto1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_3_.jpg
+
+newmtl menaraescomto1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_4_.jpg
+
+newmtl menaraescomto1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_5_.jpg
+
+newmtl menaraescomto1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_6_.jpg
+
+newmtl menaraescomto1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_7_.jpg
+
+newmtl menaraescomto1_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_8_.jpg
+
+newmtl menaraescomto1_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_9_.jpg
+
+newmtl menaraescomto1_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_10_.jpg
+
+newmtl menaraescomto1_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_11_.jpg
+
+newmtl menaraescomto1_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_12_.jpg
+
+newmtl menaraescomto1_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_13_.jpg
+
+newmtl menaraescomto1_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_14_.jpg
+
+newmtl menaraescomto1_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_15_.jpg
+
+newmtl menaraescomto1_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_16_.jpg
+
+newmtl menaraescomto1_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_17_.jpg
+
+newmtl menaraescomto1_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_18_.jpg
+
+newmtl menaraescomto1_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_19_.jpg
+
+newmtl menaraescomto1_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_20_.jpg
+
+newmtl menaraescomto1_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_21_.jpg
+
+newmtl menaraescomto1_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_22_.jpg
+
+newmtl menaraescomto1_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_23_.jpg
+
+newmtl menaraescomto1_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_24_.jpg
+
+newmtl menaraescomto1_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_25_.jpg
+
+newmtl menaraescomto1_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_26_.jpg
+
+newmtl menaraescomto1_27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_27_.jpg
+
+newmtl menaraescomto1_28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_28_.jpg
+
+newmtl menaraescomto1_29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_29_.jpg
+
+newmtl menaraescomto1_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_30_.jpg
+
+newmtl menaraescomto1_31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_31_.jpg
+
+newmtl menaraescomto1_32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_32_.jpg
+
+newmtl menaraescomto1_33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_33_.jpg
+
+newmtl menaraescomto1_34_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_34_.jpg
+
+newmtl menaraescomto1_35_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_35_.jpg
+
+newmtl menaraescomto1_36_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_36_.jpg
+
+newmtl menaraescomto1_37_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_37_.jpg
+
+newmtl menaraescomto1_38_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_38_.jpg
+
+newmtl menaraescomto1_39_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_39_.jpg
+
+newmtl menaraescomto1_40_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_40_.jpg
+
+newmtl menaraescomto1_41_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_41_.jpg
+
+newmtl menaraescomto1_42_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_42_.jpg
+
+newmtl menaraescomto1_43_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_43_.jpg
+
+newmtl menaraescomto1_44_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_44_.jpg
+
+newmtl menaraescomto1_45_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_45_.jpg
+
+newmtl menaraescomto1_46_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_46_.jpg
+
+newmtl menaraescomto1_47_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_47_.jpg
+
+newmtl latardepan
+Ka 0.000000 0.000000 0.000000
+Kd 0.741176 0.729412 0.733333
+Ks 0.330000 0.330000 0.330000
+map_Kd model/latardepan.jpg
+
+newmtl menaraescomto1_48_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_48_.jpg
+
+newmtl menaraescomto1_49_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_49_.jpg
+
+newmtl menaraescomto1_50_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_50_.jpg
+
+newmtl _Cladding_Stucco_White_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 0.776471
+Ks 0.330000 0.330000 0.330000
+map_Kd model/_Cladding_Stucco_White_1.jpg
+
+newmtl menaraescomto1_51_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_51_.jpg
+
+newmtl pintuutamaescomto
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.427451 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd model/pintuutamaescomto.jpg
+
+newmtl menaraescomto1_52_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_52_.jpg
+
+newmtl jendelaescompto2
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.529412 0.486275
+Ks 0.330000 0.330000 0.330000
+map_Kd model/jendelaescompto2.jpg
+
+newmtl menaraescomto1_53_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_53_.jpg
+
+newmtl dindingescompto2
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.658824 0.686275
+Ks 0.330000 0.330000 0.330000
+map_Kd model/dindingescompto2.jpg
+
+newmtl menaraescomto1_54_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_54_.jpg
+
+newmtl menaraescomto1_55_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_55_.jpg
+
+newmtl menaraescomto1_56_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_56_.jpg
+
+newmtl menaraescomto1_57_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_57_.jpg
+
+newmtl menaraescomto1_58_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_58_.jpg
+
+newmtl _Concrete_
+Ka 0.000000 0.000000 0.000000
+Kd 0.650980 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd model/_Concrete_.jpg
+
+newmtl menaraescomto1_59_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_59_.jpg
+
+newmtl menaraescomto1_60_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_60_.jpg
+
+newmtl menaraescomto1_61_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_61_.jpg
+
+newmtl menaraescomto1_62_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_62_.jpg
+
+newmtl menaraescomto1_63_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_63_.jpg
+
+newmtl menaraescomto1_64_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.749020 0.788235
+Ks 0.330000 0.330000 0.330000
+map_Kd model/menaraescomto1_64_.jpg
+
